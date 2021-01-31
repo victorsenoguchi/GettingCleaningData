@@ -1,3 +1,5 @@
+# Getting and Cleaning Data Course Project
+
 The R run_analysis.R code presented in this repository perform the following analysis:
 
 Merges the training and the test sets to create one data set.
